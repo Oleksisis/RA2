@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <host>localhost</host>
+    <port>5432</port>
+    <database>esports</database>
+    <user>admin@admin.com</user>
+    <password>admin</password>
+</config>
